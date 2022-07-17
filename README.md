@@ -1,16 +1,9 @@
 # repo_browser
 
-A new Flutter project.
+The rebo browser app lets you directly view the public repositories of any user on GITHUB.
 
-## Getting Started
+The app developed using Flutter which is an open source framework by Google. available for Android and IOS using Dart as a programming language.
 
-This project is a starting point for a Flutter application.
+The user inputs the GITHUB username and then the app sends request to "api.github.com" and returns with list of the public repositories.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The user can press on the repository link to open in the browser.
